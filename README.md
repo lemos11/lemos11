@@ -1,6 +1,5 @@
 ##  Hi, I’m @Re-Lmos 🙋‍♀️  
 
-> ![[The San Juan Mountains are beautiful!](/c/Users/User/Documents/PROFILE GITHUB/Re-Lmos/images/lkd.png)](https://www.linkedin.com/in/renata-lemos-b1a70b233/)
 > - 🧘‍♀️ Have twenty six years old. 
 > - 👩‍🎓  I have a son, he is six years old. 
 > - 👀 I’m interested in always being learning.
@@ -8,7 +7,7 @@
 > - 🏋️‍♀️  I'm pratice english in Duolingo every day.
 > - 👩‍💼 I’m parcipate in a program for women developers program.
 > - 🌱 I’m looking to collaborate in delivering value to the world through technolgy.
-
+>> - [Linkedin](https://www.linkedin.com/in/renata-lemos-b1a70b233/)
 
 
 <!---
