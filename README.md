@@ -1,14 +1,19 @@
-##  Hi, I’m @Re-Lmos 🙋‍♀️   
-> - 🧘‍♀️ Have twenty six years old. 
-> - 👩‍🎓  I have a son, he is six years old. 
-> - 👀 I’m interested in always being learning.
-> - 🌜 I"m fascinated by astrology, by the universe and by nature.
-> - 🏋️‍♀️  I'm pratice english in Duolingo every day.
-> - 👩‍💼 I’m parcipate in a women developers program.
-> - 🌱 I’m looking to collaborate in delivering value to the world through technolgy.
-<a href="https://www.linkedin.com/in/renata-lemos-b1a70b233/">
+##  Hi there, 🙋‍♀️   
+
+My name is Renata Lemos. 
+I am 26 years old, married with one child.
+I am curious, communicative, proactive and always looking for new knowledge.
+Currently I dedicate myself to the study of development and programming.
+In my spare time I like to play video games, read and watch videos about self-knowledge, astrology and occult sciences.
+Passionate about the universe, and the various possibilities that life has to offer. 
+Living and learning ever.
+
+#### "Life is only beautiful for those who have the power to see beauty in itself." 🦋 
+
+<br /><a href="https://www.linkedin.com/in/renata-lemos-b1a70b233/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 
 <!---
