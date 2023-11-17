@@ -2,7 +2,7 @@
 - 💃 **My name is Renata Lemos**
 - 💻 Front-end Web Developer
 - 🏡 I'm from São Paulo/SP
-- 📚 Graduated from the IT technical course and studying at Rockeseat
+- 📚 Graduated from the IT technical course and studying at Rocketseat
 - 🚀 I am a self-taught person who is constantly learning to self-develop.
 
 
