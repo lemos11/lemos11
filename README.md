@@ -5,7 +5,7 @@
 - 📚 Graduated from the IT technical course and studying at Rocketseat
 - ☀️ I am a self-taught person who is constantly learning to self-develop.
 
-- #neverstoplearning 🚀
+<br> **#neverstoplearning 🚀**
 
 
 #### 
